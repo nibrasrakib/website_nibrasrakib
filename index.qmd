@@ -2,7 +2,9 @@
 title: "Welcome to my website"
 ---
 
-Hi, my name is Nibras Ar Rakib. I am a PhD student at University of Toronto.
+Hi, my name is Nibras Ar Rakib. I am a PhD student at Faculty of Information, University of Toronto.
+
+To learn more about my websites visit <https://nibrasrakib.com>.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
